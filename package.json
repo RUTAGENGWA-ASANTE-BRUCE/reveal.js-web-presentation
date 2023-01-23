@@ -100,5 +100,9 @@
       "no-eq-null": 2,
       "no-unused-expressions": 0
     }
+  },
+  "dependencies": {
+    "copy": "^0.3.2",
+    "gulp-copy": "^4.0.1"
   }
 }
